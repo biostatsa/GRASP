@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# GRASP
+# <u>G</u>uide for <u>R</u>OC-<u>A</u>UC <u>S</u>ample-size <u>P</u>lanning (GRASP)
 
 `GRASP` is an R package designed to estimate the required sample size
 for prediction model development based on the Area Under the ROC Curve
