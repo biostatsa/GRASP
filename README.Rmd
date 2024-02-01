@@ -16,7 +16,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-# <u>G</u>uide for <u>R</u>OC-<u>A</u>UC <u>S</u>ample-size <u>P</u>lanning (GRASP)
+# <ins>G</ins>uide for <ins>R</ins>OC-<ins>A</ins>UC <ins>S</ins>ample-size <ins>P</ins>lanning (GRASP)
 
 `GRASP` is an R package designed to estimate the required sample size for prediction model development based on the Area Under the ROC Curve (AUC) value. It can be employed for two study designs. In Study 1, the goal is to determine the required sample size to ensure the length of the confidence interval (CI) for the empirical AUC estimator remains within a specific threshold. Study 2 aims to estimate the required sample size to test a hypothesis regarding AUC, with controlled type I error and predetermined statistical power levels. Additionally, the package contains a function for simulation experiments to assess the performance of various SSD methods for prediction model development.
 
